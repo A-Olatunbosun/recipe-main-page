@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### The Challenge
 
-The challenge is to build a recipe page and get it looking as close as possilbe to the design using any tools to help complete the challenge
+The challenge is to build a recipe page and get it looking as close as possilbe to the design using any tools to help complete the challenge.
 
 ### Screenshot
 
@@ -26,8 +26,8 @@ The challenge is to build a recipe page and get it looking as close as possilbe 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click to view Solution Page](https://www.frontendmentor.io/solutions/responsive-recipepage-using-html-and-css-wkBcVsixP2)
+- Live Site URL: [Click to view Live site](https://your-live-site-url.com)
 
 ## My process
 
