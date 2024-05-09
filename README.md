@@ -27,7 +27,7 @@ The challenge is to build a recipe page and get it looking as close as possilbe 
 ### Links
 
 - Solution URL: [Click to view Solution Page](https://www.frontendmentor.io/solutions/responsive-recipepage-using-html-and-css-wkBcVsixP2)
-- Live Site URL: [Click to view Live site](https://your-live-site-url.com)
+- Live Site URL: [Click to view Live site](https://silver-entremet-99d9bf.netlify.app/)
 
 ## My process
 
